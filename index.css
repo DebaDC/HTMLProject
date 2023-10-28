@@ -1,0 +1,26 @@
+h1{
+    color:green;
+}
+
+p{
+    color:blue;
+}
+
+button{
+    color: red;
+    background-color:rgb(10,10 green,10 blue);
+}
+
+body{
+    background-color: black;
+    background: url("images.jpeg");
+    /* background-size: cover; */
+}
+
+.header{
+    padding: 60px;
+    text-align: center;
+    background-color: #1abc9c;
+    color: white;
+    font-size: 30px;
+}
